@@ -1,0 +1,116 @@
+Date,Time,Song 1,Song 2,Song 3,Song 4,Song 5,Song 6
+27/01/25 Monday,9.00-9.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+27/01/25 Monday,9.30-10.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+27/01/25 Monday,10.00-10.30,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+27/01/25 Monday,10.30-11.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+27/01/25 Monday,11.00-11.30,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+27/01/25 Monday,11.30-12.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+27/01/25 Monday,12.00-12.30,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+27/01/25 Monday,12.30-13.00,1 members: Member 7,"2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+27/01/25 Monday,13.00-13.30,"2 members: Member 7, Member 5","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+27/01/25 Monday,13.30-14.00,"2 members: Member 7, Member 5","2 members: Member 7, Member 8",0 members,1 members: Member 17,1 members: Member 7,1 members: Member 8
+27/01/25 Monday,14.00-14.30,"2 members: Member 7, Member 5","2 members: Member 7, Member 8",0 members,1 members: Member 17,1 members: Member 7,1 members: Member 8
+27/01/25 Monday,14.30-15.00,"2 members: Member 7, Member 5","2 members: Member 7, Member 8",0 members,1 members: Member 17,1 members: Member 7,1 members: Member 8
+27/01/25 Monday,15.00-15.30,1 members: Member 5,1 members: Member 8,0 members,1 members: Member 17,1 members: Member 18,1 members: Member 8
+27/01/25 Monday,15.30-16.00,1 members: Member 5,1 members: Member 8,0 members,1 members: Member 17,1 members: Member 18,1 members: Member 8
+27/01/25 Monday,16.00-16.30,1 members: Member 5,"2 members: Member 9, Member 8","2 members: Member 4, Member 15",1 members: Member 17,"2 members: Member 4, Member 15",1 members: Member 8
+27/01/25 Monday,16.30-17.00,1 members: Member 5,"2 members: Member 9, Member 8","2 members: Member 4, Member 15",1 members: Member 17,"2 members: Member 4, Member 15",1 members: Member 8
+27/01/25 Monday,17.00-17.30,"2 members: Member 7, Member 5","3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15",1 members: Member 17,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+27/01/25 Monday,17.30-18.00,1 members: Member 7,"3 members: Member 9, Member 7, Member 8",1 members: Member 4,1 members: Member 17,"2 members: Member 7, Member 4",1 members: Member 8
+27/01/25 Monday,18.00-18.30,1 members: Member 7,"3 members: Member 9, Member 7, Member 8","2 members: Member 14, Member 4",1 members: Member 17,"3 members: Member 7, Member 18, Member 4",1 members: Member 8
+27/01/25 Monday,18.30-19.00,1 members: Member 7,"3 members: Member 9, Member 7, Member 8","2 members: Member 14, Member 4",1 members: Member 17,"3 members: Member 7, Member 18, Member 4",1 members: Member 8
+27/01/25 Monday,19.00-19.30,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8",1 members: Member 4,1 members: Member 17,"2 members: Member 7, Member 4",1 members: Member 8
+27/01/25 Monday,19.30-20.00,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8",1 members: Member 4,1 members: Member 17,"2 members: Member 7, Member 4",1 members: Member 8
+27/01/25 Monday,20.00-20.30,0 members,0 members,0 members,0 members,0 members,0 members
+28/01/25 Tuesday,9.00-9.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+28/01/25 Tuesday,9.30-10.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+28/01/25 Tuesday,10.00-10.30,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+28/01/25 Tuesday,10.30-11.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+28/01/25 Tuesday,11.00-11.30,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+28/01/25 Tuesday,11.30-12.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+28/01/25 Tuesday,12.00-12.30,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+28/01/25 Tuesday,12.30-13.00,"2 members: Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+28/01/25 Tuesday,13.00-13.30,"2 members: Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+28/01/25 Tuesday,13.30-14.00,"3 members: Member 6, Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+28/01/25 Tuesday,14.00-14.30,"3 members: Member 6, Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+28/01/25 Tuesday,14.30-15.00,"3 members: Member 6, Member 7, Member 1",1 members: Member 7,0 members,0 members,1 members: Member 7,0 members
+28/01/25 Tuesday,15.00-15.30,"3 members: Member 6, Member 7, Member 1",1 members: Member 7,1 members: Member 15,0 members,"3 members: Member 7, Member 18, Member 15",0 members
+28/01/25 Tuesday,15.30-16.00,"3 members: Member 6, Member 7, Member 1",1 members: Member 7,1 members: Member 15,0 members,"3 members: Member 7, Member 18, Member 15",0 members
+28/01/25 Tuesday,16.00-16.30,"3 members: Member 6, Member 7, Member 1","3 members: Member 9, Member 7, Member 8","3 members: Member 14, Member 4, Member 15",1 members: Member 16,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+28/01/25 Tuesday,16.30-17.00,"4 members: Member 6, Member 7, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","3 members: Member 14, Member 4, Member 15",1 members: Member 16,"4 members: Member 7, Member 11, Member 4, Member 15","2 members: Member 8, Member 11"
+28/01/25 Tuesday,17.00-17.30,"4 members: Member 7, Member 5, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","3 members: Member 14, Member 4, Member 15","2 members: Member 16, Member 19","4 members: Member 7, Member 11, Member 4, Member 15","3 members: Member 8, Member 11, Member 19"
+28/01/25 Tuesday,17.30-18.00,"4 members: Member 7, Member 5, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","2 members: Member 4, Member 15","2 members: Member 16, Member 19","4 members: Member 7, Member 11, Member 4, Member 15","3 members: Member 8, Member 11, Member 19"
+28/01/25 Tuesday,18.00-18.30,"3 members: Member 7, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","2 members: Member 4, Member 15","2 members: Member 16, Member 19","5 members: Member 7, Member 11, Member 18, Member 4, Member 15","3 members: Member 8, Member 11, Member 19"
+28/01/25 Tuesday,18.30-19.00,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 19","4 members: Member 7, Member 18, Member 4, Member 15","2 members: Member 8, Member 19"
+28/01/25 Tuesday,19.00-19.30,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8",1 members: Member 4,"2 members: Member 16, Member 19","2 members: Member 7, Member 4","2 members: Member 8, Member 19"
+28/01/25 Tuesday,19.30-20.00,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8",1 members: Member 4,"2 members: Member 16, Member 19","2 members: Member 7, Member 4","2 members: Member 8, Member 19"
+28/01/25 Tuesday,20.00-20.30,0 members,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,9.00-9.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,9.30-10.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,10.00-10.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,10.30-11.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,11.00-11.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,11.30-12.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+29/01/25 Wednesday,12.00-12.30,0 members,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+29/01/25 Wednesday,12.30-13.00,0 members,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+29/01/25 Wednesday,13.00-13.30,0 members,1 members: Member 8,1 members: Member 15,0 members,1 members: Member 15,1 members: Member 8
+29/01/25 Wednesday,13.30-14.00,0 members,1 members: Member 8,1 members: Member 15,0 members,1 members: Member 15,1 members: Member 8
+29/01/25 Wednesday,14.00-14.30,0 members,1 members: Member 8,1 members: Member 15,0 members,1 members: Member 15,1 members: Member 8
+29/01/25 Wednesday,14.30-15.00,0 members,1 members: Member 8,1 members: Member 15,0 members,1 members: Member 15,1 members: Member 8
+29/01/25 Wednesday,15.00-15.30,"2 members: Member 7, Member 5","2 members: Member 7, Member 8",1 members: Member 15,0 members,"2 members: Member 7, Member 15",1 members: Member 8
+29/01/25 Wednesday,15.30-16.00,"2 members: Member 7, Member 5","2 members: Member 7, Member 8",1 members: Member 15,0 members,"2 members: Member 7, Member 15",1 members: Member 8
+29/01/25 Wednesday,16.00-16.30,1 members: Member 5,1 members: Member 9,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",0 members
+29/01/25 Wednesday,16.30-17.00,"3 members: Member 5, Member 3, Member 1","2 members: Member 9, Member 11","2 members: Member 4, Member 15",1 members: Member 16,"3 members: Member 11, Member 4, Member 15",1 members: Member 11
+29/01/25 Wednesday,17.00-17.30,"2 members: Member 3, Member 1","2 members: Member 9, Member 11","2 members: Member 4, Member 15","2 members: Member 16, Member 19","3 members: Member 11, Member 4, Member 15","2 members: Member 11, Member 19"
+29/01/25 Wednesday,17.30-18.00,"3 members: Member 7, Member 3, Member 1","3 members: Member 9, Member 7, Member 11","2 members: Member 4, Member 15","2 members: Member 16, Member 19","4 members: Member 7, Member 11, Member 4, Member 15","2 members: Member 11, Member 19"
+29/01/25 Wednesday,18.00-18.30,"3 members: Member 7, Member 3, Member 1","3 members: Member 9, Member 7, Member 11","3 members: Member 14, Member 14, Member 4","2 members: Member 16, Member 19","3 members: Member 7, Member 11, Member 4","2 members: Member 11, Member 19"
+29/01/25 Wednesday,18.30-19.00,"2 members: Member 7, Member 1","2 members: Member 9, Member 7",1 members: Member 4,"2 members: Member 16, Member 19","2 members: Member 7, Member 4",1 members: Member 19
+29/01/25 Wednesday,19.00-19.30,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8",1 members: Member 4,"2 members: Member 16, Member 19","2 members: Member 7, Member 4","2 members: Member 8, Member 19"
+29/01/25 Wednesday,19.30-20.00,"2 members: Member 7, Member 1","3 members: Member 9, Member 7, Member 8",1 members: Member 4,"2 members: Member 16, Member 19","2 members: Member 7, Member 4","2 members: Member 8, Member 19"
+29/01/25 Wednesday,20.00-20.30,0 members,0 members,0 members,0 members,0 members,0 members
+30/01/25 Thursday,9.00-9.30,"2 members: Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+30/01/25 Thursday,9.30-10.00,"2 members: Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+30/01/25 Thursday,10.00-10.30,"2 members: Member 7, Member 1","2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+30/01/25 Thursday,10.30-11.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+30/01/25 Thursday,11.00-11.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+30/01/25 Thursday,11.30-12.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+30/01/25 Thursday,12.00-12.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+30/01/25 Thursday,12.30-13.00,1 members: Member 1,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+30/01/25 Thursday,13.00-13.30,"2 members: Member 6, Member 1",1 members: Member 8,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,13.30-14.00,"2 members: Member 6, Member 1",1 members: Member 8,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,14.00-14.30,"2 members: Member 6, Member 1",1 members: Member 8,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,14.30-15.00,"2 members: Member 6, Member 1",0 members,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",0 members
+30/01/25 Thursday,15.00-15.30,"2 members: Member 6, Member 1",0 members,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",0 members
+30/01/25 Thursday,15.30-16.00,"2 members: Member 6, Member 1",0 members,"2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",0 members
+30/01/25 Thursday,16.00-16.30,"2 members: Member 6, Member 7","2 members: Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 17","4 members: Member 7, Member 18, Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,16.30-17.00,"2 members: Member 6, Member 7","2 members: Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 17","4 members: Member 7, Member 18, Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,17.00-17.30,1 members: Member 7,"3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 17","4 members: Member 7, Member 18, Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,17.30-18.00,1 members: Member 7,"3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 17","4 members: Member 7, Member 18, Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,18.00-18.30,1 members: Member 7,"3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 17","3 members: Member 7, Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,18.30-19.00,1 members: Member 7,"3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15","2 members: Member 16, Member 17","3 members: Member 7, Member 4, Member 15",1 members: Member 8
+30/01/25 Thursday,19.00-19.30,1 members: Member 7,"2 members: Member 9, Member 7",1 members: Member 4,"2 members: Member 16, Member 17","2 members: Member 7, Member 4",0 members
+30/01/25 Thursday,19.30-20.00,1 members: Member 7,"3 members: Member 9, Member 7, Member 8",1 members: Member 4,"2 members: Member 16, Member 17","2 members: Member 7, Member 4",1 members: Member 8
+30/01/25 Thursday,20.00-20.30,0 members,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,9.00-9.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,9.30-10.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,10.00-10.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,10.30-11.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,11.00-11.30,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,11.30-12.00,1 members: Member 1,0 members,0 members,0 members,0 members,0 members
+31/01/25 Friday,12.00-12.30,0 members,1 members: Member 8,0 members,0 members,0 members,1 members: Member 8
+31/01/25 Friday,12.30-13.00,1 members: Member 7,"2 members: Member 7, Member 8",0 members,0 members,1 members: Member 7,1 members: Member 8
+31/01/25 Friday,13.00-13.30,1 members: Member 7,"2 members: Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,13.30-14.00,1 members: Member 7,"2 members: Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,14.00-14.30,1 members: Member 7,"2 members: Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,14.30-15.00,1 members: Member 7,"2 members: Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,15.00-15.30,1 members: Member 7,"2 members: Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,15.30-16.00,"2 members: Member 6, Member 7","2 members: Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,16.00-16.30,"3 members: Member 6, Member 7, Member 1","3 members: Member 9, Member 7, Member 8","2 members: Member 4, Member 15",0 members,"3 members: Member 7, Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,16.30-17.00,"4 members: Member 6, Member 7, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","2 members: Member 4, Member 15",0 members,"4 members: Member 7, Member 11, Member 4, Member 15","2 members: Member 8, Member 11"
+31/01/25 Friday,17.00-17.30,"4 members: Member 6, Member 7, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","2 members: Member 4, Member 15",0 members,"4 members: Member 7, Member 11, Member 4, Member 15","2 members: Member 8, Member 11"
+31/01/25 Friday,17.30-18.00,"4 members: Member 6, Member 7, Member 3, Member 1","4 members: Member 9, Member 7, Member 8, Member 11","2 members: Member 4, Member 15",0 members,"4 members: Member 7, Member 11, Member 4, Member 15","2 members: Member 8, Member 11"
+31/01/25 Friday,18.00-18.30,"2 members: Member 3, Member 1","3 members: Member 9, Member 8, Member 11","2 members: Member 4, Member 15",0 members,"3 members: Member 11, Member 4, Member 15","2 members: Member 8, Member 11"
+31/01/25 Friday,18.30-19.00,1 members: Member 1,"2 members: Member 9, Member 8","2 members: Member 4, Member 15",0 members,"2 members: Member 4, Member 15",1 members: Member 8
+31/01/25 Friday,19.00-19.30,1 members: Member 1,"2 members: Member 9, Member 8",1 members: Member 4,0 members,1 members: Member 4,1 members: Member 8
+31/01/25 Friday,19.30-20.00,1 members: Member 1,"2 members: Member 9, Member 8",1 members: Member 4,0 members,1 members: Member 4,1 members: Member 8
+31/01/25 Friday,20.00-20.30,0 members,0 members,0 members,0 members,0 members,0 members
