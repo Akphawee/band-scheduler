@@ -29,6 +29,15 @@ In this table:
 
 An example CSV file (`example_freetime.csv`) is included in this repository.
 
+## Input Format
+The script processes free time data from a CSV file. The form collects:
+- Member names
+- Time slots (marked as available/unavailable)
+  
+Example Google Form:
+![Form Example](https://)
+
+
 ## 🛠️ Installation
 1. Clone this repository:
    ```sh
