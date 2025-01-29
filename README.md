@@ -35,7 +35,7 @@ The script processes free time data from a CSV file. The form collects:
 - Time slots (marked as available/unavailable)
   
 Example Google Form:
-![Form Example](https://github.com/Akphawee/band-scheduler/blob/main/ggform_nickname.png)
+![Form Example(nickname)](https://github.com/Akphawee/band-scheduler/blob/main/ggform_nickname.png)
 ![Form Example](https://github.com/Akphawee/band-scheduler/blob/main/ggform_freetime_selection.png)
 
 
